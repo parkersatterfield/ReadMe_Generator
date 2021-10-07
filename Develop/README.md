@@ -1,44 +1,45 @@
 
-# rresgrgr 
+# **Read Me Generator** 
 
-### grd 
+### *This project is a command line Node application that will generate a professionally doen ReadMe file.* 
 
-## (https://opensource.org/licenses/MIT)(https://opensource.org/licenses/MIT) 
+##  
 
 ## Table of Contents 
 
-- [Installation Instructions](#installation-instructions)
+1. [Installation Instructions](#installation-instructions)
 
-- [Usage Information](#usage-information)
+2. [Usage Information](#usage-information)
 
-- [Contribution Guidelines](#contribution-guidelines)
+3. [Contribution Guidelines](#contribution-guidelines)
 
-- [Test Instructions](#test-instructions)
+4. [Test Instructions](#test-instructions)
 
-- [Questions](#questions)
+5. [Questions](#questions)
 
 ## Installation Instructions 
 
-sg 
+Install  
 
 ## Usage Information 
 
-drg 
+f 
 
 ## Contribution Guidelines 
 
-dr 
+I did it by myself 
 
 ## Test Instructions 
 
-gdr 
+Test it good 
 
 ## Questions 
 
-Email: g 
+Email: parkersggggg@ggg.com 
 
-GitHub: https://github.com/gdr 
---- 
---- 
+GitHub: https://github.com/parkersatterfield
+
+---
+
 
             
