@@ -76,7 +76,7 @@ function writeToFile(fileName, data) {
         const badge = generateMarkdown.renderLicenseBadge(response.license);
         const section = `## License Information \n${response.license} \n`
         const licenseSection = generateMarkdown.renderLicenseSection(response.license, section);
-        fileName = 'README.md'
+        fileName = '../README.md'
         fs.writeFile(
             // Read Me File Name
             fileName, 
